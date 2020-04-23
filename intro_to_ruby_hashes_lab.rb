@@ -43,11 +43,7 @@ def monopoly_with_third_tier
       }
     }
   }
-  railroads
-end
-
-def okay
-  a = 1
+  monopoly
 end
 
 
